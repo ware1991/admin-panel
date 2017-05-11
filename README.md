@@ -6,7 +6,7 @@
 
 Base on：Laravel 5.4
 
-Use Package： tcg/voyager
+Use Package： [tcg/voyager](https://github.com/the-control-group/voyager "Voyager - The Missing Laravel Admin")
 
 ### 專案配置
 * 將專案 clone 下來後，至專案目錄底下執行底下命令:
